@@ -1,0 +1,10 @@
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\bin\Debug\Hesap Makinesi (Basit).exe.config
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\bin\Debug\Hesap Makinesi (Basit).exe
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\bin\Debug\Hesap Makinesi (Basit).pdb
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\obj\Debug\Hesap Makinesi (Basit).csprojAssemblyReference.cache
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\obj\Debug\Hesap_Makinesi__Basit_.Form1.resources
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\obj\Debug\Hesap_Makinesi__Basit_.Properties.Resources.resources
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\obj\Debug\Hesap Makinesi (Basit).csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\obj\Debug\Hesap Makinesi (Basit).csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\obj\Debug\Hesap Makinesi (Basit).exe
+C:\Users\Hilal\source\repos\Hesap Makinesi (Basit)\Hesap Makinesi (Basit)\obj\Debug\Hesap Makinesi (Basit).pdb
